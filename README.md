@@ -46,7 +46,7 @@ Pour exécuter le projet, veuillez suivre les étapes ci-dessous :
 
 1. Clonez le dépôt :
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone https://github.com/Onzk/tp-microservice
    ```
 
 2. Accédez aux répertoires des services et exécutez-les avec Maven :
